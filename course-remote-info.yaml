@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://hyperskill.org/api/projects/87/additional-files/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Fri, 27 Jun 2025 06:07:42 UTC"
+update_date: "Fri, 07 Nov 2025 05:36:55 UTC"
 stages:
   - id: 480
     step: 7786
@@ -41,6 +41,8 @@ topics:
       theory_id: 8857
     - title: Properties of functions
       theory_id: 20683
+    - title: Computer algorithms
+      theory_id: 16547
     - title: Data structures
       theory_id: 40371
     - title: Abstract and concrete data structures
@@ -159,12 +161,6 @@ topics:
       theory_id: 3611
     - title: What are bugs
       theory_id: 5504
-    - title: Call stack
-      theory_id: 11550
-    - title: Scopes
-      theory_id: 17116
-    - title: Nested and inner classes
-      theory_id: 14723
     - title: Getting substrings
       theory_id: 8535
     - title: Processing strings
@@ -175,6 +171,12 @@ topics:
       theory_id: 4564
     - title: String arrays
       theory_id: 11477
+    - title: Call stack
+      theory_id: 11550
+    - title: Scopes
+      theory_id: 17116
+    - title: Nested and inner classes
+      theory_id: 14723
     - title: Code organization. Design principles
       theory_id: 8956
     - title: Documentation
@@ -242,7 +244,7 @@ topics:
       theory_id: 5991
     - title: Inheritance
       theory_id: 9844
-    - title: Inheritance
+    - title: Kotlin Inheritance
       theory_id: 7770
     - title: Polymorphism
       theory_id: 10027
@@ -267,8 +269,6 @@ topics:
     - title: The try-catch-finally statement
       theory_id: 11809
   4:
-    - title: Computer algorithms
-      theory_id: 16547
     - title: Linear combinations and linear independence
       theory_id: 29596
     - title: Matrix determinant

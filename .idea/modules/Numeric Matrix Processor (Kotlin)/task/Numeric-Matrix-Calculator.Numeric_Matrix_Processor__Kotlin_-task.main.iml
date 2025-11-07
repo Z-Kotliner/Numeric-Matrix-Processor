@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Numeric_Matrix_Processor__Kotlin_-task-build-classes-java:main" external.linked.project.path="$MODULE_DIR$/../../../../../../../Numeric Matrix Processor (Kotlin)/task/build/classes/java" external.root.project.path="$MODULE_DIR$/../../../../../../.." external.system.id="GRADLE" external.system.module.group="Numeric Matrix Processor (Kotlin)" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Numeric_Matrix_Processor__Kotlin_-task:main" external.linked.project.path="$MODULE_DIR$/../../../../Numeric Matrix Processor (Kotlin)/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Numeric-Matrix-Calculator" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
-      <configuration version="5" platform="JVM 21" allPlatforms="JVM [21]" useProjectSettings="false" pureKotlinSourceFolders="C:\Users\omero\Documents\Dev\Kotlin\Numeric Matrix Processor (Kotlin)\Numeric Matrix Processor (Kotlin)\task\build\classes\java\src\main\kotlin;C:\Users\omero\Documents\Dev\Kotlin\Numeric Matrix Processor (Kotlin)\Numeric Matrix Processor (Kotlin)\task\build\classes\java\src\test\kotlin">
+      <configuration version="5" platform="JVM 21" allPlatforms="JVM [21]" useProjectSettings="false" pureKotlinSourceFolders="C:\Users\omero\Documents\Dev\Kotlin\Numeric-Matrix-Calculator\Numeric Matrix Processor (Kotlin)\task\src\test\kotlin;C:\Users\omero\Documents\Dev\Kotlin\Numeric-Matrix-Calculator\Numeric Matrix Processor (Kotlin)\task\src\main\kotlin">
         <compilerSettings />
         <compilerArguments>
           <flagArguments>
@@ -11,9 +11,9 @@
             <flagArg name="noStdlib" arg="true" />
           </flagArguments>
           <stringArguments>
-            <stringArg name="destination" arg="$MODULE_DIR$/../../../../../../../Numeric Matrix Processor (Kotlin)/task/build/classes/java/build/classes/kotlin/main" />
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../Numeric Matrix Processor (Kotlin)/task/build/classes/kotlin/main" />
             <stringArg name="jvmTarget" arg="21" />
-            <stringArg name="moduleName" arg="Numeric_Matrix_Processor__Kotlin_-task-build-classes-java" />
+            <stringArg name="moduleName" arg="Numeric_Matrix_Processor__Kotlin_-task" />
             <stringArg name="apiVersion" arg="2.0" />
             <stringArg name="languageVersion" arg="2.0" />
           </stringArguments>
@@ -34,9 +34,11 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../../../Numeric Matrix Processor (Kotlin)/task/build/classes/java/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../Numeric Matrix Processor (Kotlin)/task/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../../../../Numeric Matrix Processor (Kotlin)/task/build/classes/java/src" />
+    <content url="file://$MODULE_DIR$/../../../../Numeric Matrix Processor (Kotlin)/task/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Numeric Matrix Processor (Kotlin)/task/src" isTestSource="false" />
+    </content>
     <orderEntry type="jdk" jdkName="jbr-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.0.0" level="project" />
